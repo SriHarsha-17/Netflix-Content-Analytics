@@ -51,7 +51,7 @@ By analyzing movies and TV shows across genres, ratings, countries, and timeline
 ## 👤 Author
 **Sri Harsha**  
 Aspiring Data Analyst  
-Skills: Power BI | SQL | Data Analysis | Data Visualization  
+Skills: Python | Power BI | SQL | Data Analysis | Data Visualization  
 
 GitHub: https://github.com/SriHarsha-17
 
