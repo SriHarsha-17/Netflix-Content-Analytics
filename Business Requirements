@@ -1,0 +1,71 @@
+# Business Requirements – Netflix Content Analytics Dashboard
+
+## 1. Background
+Netflix adds content from many countries and across a wide range of genres every year. As the content library grows, it becomes difficult to clearly understand what type of content dominates the platform, which regions contribute the most, and how Netflix’s content strategy has evolved over time without analyzing the data in a single, consolidated view.
+
+This project aims to organize Netflix content data into a clear and interactive format that supports better analysis and informed decision-making.
+
+---
+
+## 2. Business Objective
+The primary objective of this project is to provide a centralized analytical view of Netflix’s content library. The dashboard is designed to help stakeholders:
+
+- Understand the overall composition of Netflix content
+- Identify dominant content types, genres, and regions
+- Analyze audience targeting through content ratings
+- Track how content additions have changed over time
+
+---
+
+## 3. Key Business Questions
+The dashboard is built to answer the following business questions:
+
+1. How many total titles are available on Netflix, and how are they divided between Movies and TV Shows?
+2. Does Netflix focus more on Movies or TV Shows, and what is the difference between them?
+3. Which content ratings (such as TV-MA, TV-14, PG-13) are most common on the platform?
+4. Based on the rating distribution, which audience age groups is Netflix mainly targeting?
+5. Which countries contribute the highest number of titles to Netflix’s content library?
+6. How does the balance between Movies and TV Shows differ across countries?
+7. Which genres and categories have the highest content volume?
+8. What type of content is Netflix producing the most across different genres?
+9. How has the number of titles added to Netflix changed over time?
+10. Were there specific years in which content additions peaked or declined?
+11. What overall patterns and insights can be identified to support content strategy and regional planning?
+
+---
+
+## 4. Dashboard Scope
+The dashboard focuses on:
+
+- Total Movies and TV Shows available on Netflix
+- Content distribution by type, rating, country, and genre
+- Year-wise trends in content additions
+- High-level business insights derived from visual analysis
+
+---
+
+## 5. Key Stakeholders
+This dashboard can be useful for:
+
+- Content Strategy Teams
+- Business Analysts
+- Regional Content Planning Teams
+- Marketing and Audience Insights Teams
+- Data Analytics and BI Teams
+
+---
+
+## 6. Success Criteria
+The project is considered successful if:
+
+- Users can quickly understand Netflix’s content composition
+- Business questions can be answered using the dashboard visuals
+- Insights are clear, accurate, and easy to interpret
+- The dashboard supports data-driven discussion and planning
+
+---
+
+## 7. Assumptions and Limitations
+- The analysis is based on the available Netflix dataset and reflects the data at the time of collection
+- Some regional or genre-level details may vary depending on data completeness
+- The dashboard focuses on descriptive analysis and does not include predictive modeling
